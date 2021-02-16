@@ -45,7 +45,7 @@ export class Scorebelow70 extends Component{
                         <li>Mr.{item.name}<span>  {item.score}</span></li>
                         </div>
                     )
-                   // players70.push(item);
+                   
                 }
                 
 
